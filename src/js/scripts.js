@@ -25,5 +25,3 @@ function cliqueiNoBotao() {
 
   buscarCidade(cidade)
 }
-
-/* alert("olá")*/
